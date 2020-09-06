@@ -1,0 +1,39 @@
+CSS Dasar - 4 - Font Styling.mp4
+font = tulisan
+text = peroperti pendukung
+
+Font
+font-family	//mengatur jenis font yang akan digunakan
+font-size	//mengatur ukuran font
+font-weight	//mengatur ketebalan font
+font-variant	//mengubah font menjadi small caps
+font-style	//mengubah font menjadi bercetak miring
+line-height	//mengatur spasi antar baris
+shorthand/singkatan	//w3schools.com
+
+CSS Dasar - 5 - Text Styling.mp4
+Text
+color	//memberi warna pada tulisan
+text-align	//mengatur format paragraf/teks
+text-indent	//memberi indentasi pada paragraf/teks
+text-decoration	//mengatur dekorasi pada teks
+text-transform	//mengubah jenis huruf menjadi huruf besar, kecil/kapital
+letter-spacing	//mengatur spasi antar huruf
+word-spacing	//mengatur spasi antar kata
+
+CSS Dasar - 6 - Background.mp4
+Background
+background-color	//mengatur warna pada background
+background-image	//mengatur gambar yang akan digunakan pada background
+background-position	//mengatur posisi gambar pada background
+background-repeat	//mengatur jenis pengulangan gambar pada background
+shorthand/singkatan	//
+
+
+CSS Dasar - 7 - Selector.mp4		//memilih yang ingin di target
+CSS Dasar - 8 - Pseudo Class.mp4	//a:hover {}
+CSS Dasar - 9 - Inheritance.mp4		//pewarisan
+CSS Dasar - 10 - Specificity.mp4	//0000 (inline, id, class, tagHTML)
+
+
+
