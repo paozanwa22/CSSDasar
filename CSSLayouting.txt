@@ -1,0 +1,25 @@
+CSS Layouting - #0 Intro.mp4
+CSS Layouting - #1 Display.mp4
+CSS Layouting - #2 Dimensi & Overflow.mp4
+CSS Layouting - #3 Box Model - Konsep.mp4
+CSS Layouting - #4 Box Model - Margin.mp4
+CSS Layouting - #5 Box Model - Padding, Border & Box Sizing.mp4
+	box-sizing: border-box;		//membuat ukuran border box tidak bertambah(tidak terpengaruh oleh padding dll).
+CSS Layouting - #6 Box Model - CSS Reset.mp4
+	CSS reset	//meyerweb.com/eric/tools/css/reset/
+CSS Layouting - #7 Box Model - Membuat Website Sederhana.mp4
+	font: 16px/28px arial, sans-serif;
+	unsplash.com		//tempat download gambar tanpa copyright
+	border-top: 5px solid salmon;
+	background-position: 0 -180px;
+	background-size: cover;		//untuk membuat img nya pas dengan containernya
+	subtlepatterns.com		//gambar berulang / sebagai gambar belakang
+CSS Layouting - #8 Float.mp4
+	nicolasgallagher.com/micro-clearfix-hack/	//membersihkan float
+CSS Layouting - #9 Clear.mp4
+CSS Layouting - #10 Float - Membuat Website Sederhana (Part 2).mp4
+CSS Layouting - #11 Position - Static & Relative.mp4
+CSS Layouting - #12 Position - Absolute & Fixed.mp4
+CSS Layouting - #13 - z-index & penggunaan lain dari position.mp4 //membuat dia paling atas
+CSS Layouting - #14 - Latihan Position.mp4
+
