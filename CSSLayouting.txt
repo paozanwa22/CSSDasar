@@ -11,11 +11,39 @@ CSS Layouting - #7 Box Model - Membuat Website Sederhana.mp4
 	font: 16px/28px arial, sans-serif;
 	unsplash.com		//tempat download gambar tanpa copyright
 	border-top: 5px solid salmon;
-	background-position: 0 -180px;
+	background-position: 0 -180px;	//value horizontal pertikal
 	background-size: cover;		//untuk membuat img nya pas dengan containernya
 	subtlepatterns.com		//gambar berulang / sebagai gambar belakang
 CSS Layouting - #8 Float.mp4
 	nicolasgallagher.com/micro-clearfix-hack/	//membersihkan float
+---
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+    *zoom: 1;
+}
+---
 CSS Layouting - #9 Clear.mp4
 CSS Layouting - #10 Float - Membuat Website Sederhana (Part 2).mp4
 CSS Layouting - #11 Position - Static & Relative.mp4
